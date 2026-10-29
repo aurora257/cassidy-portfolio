@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aurora257.github.io/cassidy-portfolio/sitemap.xml
